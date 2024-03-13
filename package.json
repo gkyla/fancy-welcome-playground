@@ -1,0 +1,32 @@
+{
+  "name": "fancy-welcome-playground",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.6"
+  },
+  "author": "gkyla",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkyla/fancy-welcome-playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gkyla/fancy-welcome-playground/issues"
+  },
+  "homepage": "https://github.com/gkyla/fancy-welcome-playground#readme",
+  "keywords": [
+    "fancy",
+    "welcome",
+    "playground"
+  ],
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "fancy-welcome": "^1.0.2"
+  }
+}
